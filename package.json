@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lionix-studio.github.io/lionix-website/",
+  "homepage": "https://max-lionix.github.io/lionix-website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
