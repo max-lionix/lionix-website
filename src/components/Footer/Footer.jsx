@@ -28,13 +28,13 @@ const Footer = () => {
                     </div>
                     <div className="contact-item">
                         <span>✉️</span>
-                        <a href="mailto:lionixstudio@protonmail.com">
-                            lionixstudio@protonmail.com
+                        <a href="mailto:admin@lionixstudio.pp.ua">
+                            admin@lionixstudio.pp.ua
                         </a>
                     </div>
                 </div>
                 <div className="socials">
-                        <a href="https://github.com/lionixstudio" target="_blank" rel="noreferrer" aria-label="GitHub">
+                        <a href="https://github.com/lionix-studio" target="_blank" rel="noreferrer" aria-label="GitHub">
                             <FaGithub />
                         </a>
                         <a href="https://instagram.com/" target="_blank" rel="noreferrer" aria-label="Instagram">
